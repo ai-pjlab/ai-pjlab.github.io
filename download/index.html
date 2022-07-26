@@ -1,0 +1,124 @@
+<!DOCTYPE html><html lang="en-us"><!-- This web page is copied by the "https://bazhan.wang" --><head><meta charset="utf-8">
+    
+    <title>Download | Captura</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="IE=10.000" http-equiv="X-UA-Compatible">
+
+    <link rel="icon" href="favicon.ico">
+
+    <!-- Bootstrap and JQuery -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Google Font - Lato -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Download Captura | Captura</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="Download Captura">
+<meta name="author" content="Mathew Sachin">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes">
+<meta property="og:description" content="Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes">
+<!-- <link rel="canonical" href="/download/"> -->
+<meta property="og:url" content="/download/">
+<meta property="og:site_name" content="Captura">
+<script type="application/ld+json">
+{"headline":"Download Captura","@type":"WebPage","author":{"@type":"Person","name":"Mathew Sachin"},"url":"/download/","description":"Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="/">AI Edu</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/download">Download</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/donate">Donate</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="_blank" href="https://github.com/ai-pjlab/Eye">Source</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+    <div class="container">
+      <br>
+
+<h1 class="display-4">Captura <span id="app-version"></span></h1>
+
+<div class="my-3 d-none" id="release-block">
+  <h2></h2>
+
+  <div class="row">
+    <div class="col">
+      <div class="card shadow">
+        <div class="card-body">
+          <h5 class="card-title">Setup</h5>
+          <p class="card-text text-muted">Installs Captura on your system.</p>
+          <a id="setup-link" download="Captura-Setup.exe" class="btn btn-primary">Download</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card shadow">
+        <div class="card-body">
+          <h5 class="card-title">Portable</h5>
+          <p class="card-text text-muted">Portable version does not need to be installed. Just extract the zip file and you are good to go.</p>
+          <a id="portable-link" download="Captura-Portable.zip" class="btn btn-primary">Download</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<a target="_blank" class="btn btn-info my-5" href="https://github.com/MathewSachin/Captura/releases">
+  Get pre-releases and older releases
+</a>
+
+<script>
+  var repo = "MathewSachin/Captura";
+  var setup = "Captura-Setup.exe";
+  var portable = "Captura-Portable.zip";
+
+  $.getJSON("https://api.github.com/repos/" + repo + "/releases/latest", data => {
+    $("#app-version").text(data.tag_name);
+    $("#portable-link").attr('href', "https://github.com/MathewSachin/Captura/releases/download/" + data.tag_name + "/Captura-Portable.zip");
+    $("#setup-link").attr('href', "https://github.com/MathewSachin/Captura/releases/download/" + data.tag_name + "/Captura-Setup.exe");
+
+    $("#release-block").removeClass("d-none");
+  });
+</script>      
+    </div>
+
+    
+<script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'MathewSachin/Captura'
+  };
+</script>
+<script src="js/sidecar.v1.js" async="" defer=""></script>
+
+
+    <br><br>
+  
+
+</body></html>

@@ -1,0 +1,185 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://mathewsachin.github.io/Captura/donate/",
+            "path": "index.html",
+            "saved": true,
+            "size": 8448,
+            "children": [
+                {
+                    "url": "https://code.jquery.com/jquery-3.3.1.min.js",
+                    "path": "js/jquery-3.3.1.min.js",
+                    "saved": true,
+                    "size": 86927,
+                    "children": []
+                },
+                {
+                    "url": "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js",
+                    "path": "js/popper.min.js",
+                    "saved": true,
+                    "size": 20337,
+                    "children": []
+                },
+                {
+                    "url": "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 51039,
+                    "children": []
+                },
+                {
+                    "url": "https://sidecar.gitter.im/dist/sidecar.v1.js",
+                    "path": "js/sidecar.v1.js",
+                    "saved": true,
+                    "size": 19359,
+                    "children": []
+                },
+                {
+                    "url": "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 140936,
+                    "children": []
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Lato",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "saved": true,
+                    "size": 29022,
+                    "children": [
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.eot?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.woff2?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.woff?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.ttf?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://mathewsachin.github.io/Captura/styles/styles.css",
+                    "path": "css/styles.css",
+                    "saved": true,
+                    "size": 238,
+                    "children": []
+                },
+                {
+                    "url": "https://mathewsachin.github.io/Captura/assets/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "mathewsachin-github-io-bhlnp4bq",
+    "info": {
+        "remark": [],
+        "title": "Donate | CapturaDonate Captura | Captura",
+        "domain": "mathewsachin.github.io",
+        "origin": "https://mathewsachin.github.io",
+        "ip": "185.199.111.153",
+        "main": "index.html",
+        "url": "https://mathewsachin.github.io/Captura/donate/",
+        "totalSize": "356 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://mathewsachin.github.io/Captura/donate/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://mathewsachin.github.io/Captura/donate/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "connection": "close",
+                "content-length": "8882",
+                "server": "GitHub.com",
+                "content-type": "text/html; charset=utf-8",
+                "permissions-policy": "interest-cohort=()",
+                "last-modified": "Sun, 16 Aug 2020 15:25:34 GMT",
+                "access-control-allow-origin": "*",
+                "etag": "\"5f394fee-22b2\"",
+                "expires": "Tue, 26 Jul 2022 03:24:42 GMT",
+                "cache-control": "max-age=600",
+                "x-proxy-cache": "MISS",
+                "x-github-request-id": "1F02:377C:C3E43:F2BB2:62DF5C22",
+                "accept-ranges": "bytes",
+                "date": "Tue, 26 Jul 2022 03:14:42 GMT",
+                "via": "1.1 varnish",
+                "age": "0",
+                "x-served-by": "cache-hnd18728-HND",
+                "x-cache": "MISS",
+                "x-cache-hits": "0",
+                "x-timer": "S1658805282.483587,VS0,VE311",
+                "vary": "Accept-Encoding",
+                "x-fastly-request-id": "f1a70e8046e535f545d303efd8f7cc773d686453"
+            }
+        },
+        "time": {
+            "start": "2022-07-26T03:14:42.445Z",
+            "end": "2022-07-26T03:14:44.172Z"
+        }
+    },
+    "options": {
+        "url": "https://mathewsachin.github.io/Captura/donate/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
